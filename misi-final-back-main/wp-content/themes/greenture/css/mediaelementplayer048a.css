@@ -1,0 +1,237 @@
+.mejs-container,
+.mejs-embed,
+.mejs-embed body,
+.mejs-container .mejs-controls {
+    background: #000;
+}
+.audio-player .mejs-container {
+    background: transparent;
+    font-family: inherit;
+    width: 100%;
+}
+.mejs-overlay-button {
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    margin: 0 !important;
+}
+/* Start: CONTROL BAR */
+.audio-player {
+    height: 50px;
+    width: 100%;
+}
+.audio-player .mejs-container .mejs-controls {
+    position: absolute;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background: #2C2C2C;
+    border: 1px solid #404040;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    -ms-border-radius: 3px;
+}
+.audio-player .mejs-container .mejs-controls div {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 26px;
+    height: 26px;
+    border: none;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+    background: none;
+    font-family: inherit;
+}
+.audio-player .mejs-container .mejs-controls .mejs-button {
+    width: 40px;
+    height: 48px;
+}
+.audio-player .mejs-container .mejs-button button {
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 36px;
+    background: url(../images/play-pause-icon.png) no-repeat;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    border: none;
+    font-size: 0;
+    line-height: 0;
+    text-decoration: none;
+    top: 50%;
+    transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+/* Start: Time (Current / Duration) */
+.audio-player .mejs-container .mejs-controls .mejs-time {
+    overflow: hidden;
+    display: block;
+    width: auto;
+    height: 48px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.audio-player .mejs-container .mejs-controls .mejs-time span {
+    display: block;
+    float: left;
+    width: auto;
+    margin: 0 6px 0 0;
+    color: #fff;
+    font-size: 16px;
+    line-height: 16px;
+    height: 48px;
+    line-height: 48px;
+}
+/* End: Time (Current / Duration) */
+/* Start: Play/Pause/Stop */
+.audio-player .mejs-container .mejs-playpause-button button {
+    background-position: center 30px;
+}
+.audio-player .mejs-container .mejs-play button {
+    background-position: center 10px;
+}
+.audio-player .mejs-container .mejs-pause button {
+    background-position: center -26px;
+}
+/* Start: Play/Pause/Stop */
+/* Start: Progress Bar */
+.audio-player .mejs-container .mejs-controls .mejs-time-rail {
+    direction: ltr;
+    padding-top: 5px;
+    margin-right: 10px;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 48px;
+}
+.audio-player .mejs-container .mejs-time-rail span {
+    display: block;
+    position: absolute;
+    height: 6px;
+    cursor: pointer;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.mejs-controls .mejs-time-rail span,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.audio-player .mejs-container .mejs-time-rail .mejs-time-total {
+    background: #DBE0E4;
+    width: 100%;
+    margin-top: 17px;
+}
+.audio-player .mejs-container .mejs-controls .mejs-time-rail .mejs-time-handle {
+    background: url(../images/volume-handle.png) 0 0 no-repeat;
+    border: none;
+    width: 20px;
+    height: 20px;
+    top: -7px;
+}
+.audio-player .mejs-container .mejs-time-loaded {
+    width: 0;
+    background: #DBE0E4;
+}
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+    background: #DBE0E4;
+}
+.audio-player .mejs-container .mejs-time-rail .mejs-time-current {
+    width: 0;
+}
+.audio-player .mejs-container .mejs-controls .mejs-time-rail .mejs-time-float {
+    position: absolute;
+    display: none;
+    background: #eee;
+    width: 36px;
+    height: 17px;
+    border: none;
+    top: -26px;
+    margin-left: -18px;
+    text-align: center;
+    color: #111;
+}
+.audio-player .mejs-container .mejs-controls .mejs-time-rail .mejs-time-float-corner {
+    border: none;
+}
+/* End: Progress Bar */
+/* Start: Mute/Volume */
+.audio-player .mejs-container .mejs-controls .mejs-volume-button {
+    width: 24px;
+    height: 48px;
+    display: block;
+}
+.audio-player .mejs-container .mejs-volume-button button {
+    width: 24px;
+    height: 24px;
+    background: url(../images/volume-icon.png) 0 0 no-repeat transparent;
+}
+.audio-player .mejs-container .mejs-controls div.mejs-horizontal-volume-slider {
+    height: 48px;
+    width: 60px;
+    position: relative;
+    display: block;
+    cursor: pointer;
+    margin: 0 15px 0 10px;
+}
+.audio-player .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+    position: absolute;
+    top: 21px;
+    left: 0;
+    width: 60px;
+    height: 5px;
+    margin: 0;
+    padding: 0;
+    font-size: 1px;
+    background: #DBE0E4;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.audio-player .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+    position: absolute;
+    top: 21px;
+    left: 0;
+    width: 60px;
+    height: 5px;
+    margin: 0;
+    padding: 0;
+    font-size: 1px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.audio-player .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle {
+    margin: 0;
+    position: absolute;
+    top: 14px;
+    background: url(../images/volume-handle.png) 0 0 no-repeat;
+    width: 20px;
+    height: 20px;
+}
+/* End: Mute/Volume */

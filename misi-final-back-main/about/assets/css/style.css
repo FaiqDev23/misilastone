@@ -1,0 +1,556 @@
+/* .page-title-section {
+	width: 100%;
+	overflow: hidden;
+	background: url(../../../assets/images/about.png) no-repeat  fixed !important;
+	background-position:center center; 
+	background-size:auto;
+	background-color: #000000;
+	position: relative;
+	padding: 100px 0;
+	margin-bottom: 30px;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+}
+ 
+.page-title-section{
+	padding: 100px 0;
+	margin-bottom: 30px;
+	  background: url(../../../assets/images/about.png) no-repeat center center fixed !important; 
+	  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}  */
+
+	.social-logo {
+			width: 16px !important;
+			height: 16px !important;
+		}
+
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+
+			.member {
+			text-align: center !important;
+		}
+
+		* {
+			font-family: 'Montserrat', sans-serif !important;
+		}
+
+		.slider-dropcop {
+			background: #0047ba none repeat scroll 0 0;
+			border-radius: 50px 0 50px 50px;
+			color: #ffffff;
+			font-family: "Raleway", sans-serif;
+			font-size: 70px;
+			font-weight: 700;
+			height: 100px;
+			line-height: 36px;
+			padding: 30px 0;
+			position: relative;
+			text-align: center;
+			width: 100px
+		}
+
+		.slider-dropcop strong {
+			border-width: 0;
+			font-size: 70px;
+			letter-spacing: 0;
+			line-height: 36px;
+			margin: 0;
+			min-height: 0;
+			min-width: 0;
+			padding: 30px 0
+		}
+
+		.slider-dropcop sub {
+			border-width: 0;
+			font-size: 24px;
+			font-weight: 900;
+			letter-spacing: 0;
+			line-height: 28px;
+			margin: 0;
+			min-height: 0;
+			min-width: 0;
+			padding: 0
+		}
+
+		.slider-heading-one {
+			color: #ffffff;
+			font-size: 92px;
+			font-weight: 700;
+			line-height: 1.2em;
+			text-transform: uppercase;
+			font-family: "Raleway", sans-serif
+		}
+
+		.slider-heading-one .normal-font {
+			font-weight: 400;
+			font-family: "Raleway", sans-serif;
+			text-transform: uppercase
+		}
+
+		h3.blog-color {
+			background: #0047ba;
+			color: #ffffff;
+			font-size: 26px;
+			font-weight: 700;
+			line-height: 1.4em;
+			padding: 5px 16px;
+			font-family: "Raleway", sans-serif;
+			position: relative;
+			text-transform: uppercase
+		}
+
+		div.text .text {
+			color: #ededed;
+			font-size: 18px;
+			font-weight: 400;
+			line-height: 1.4em
+		}
+
+		a.slider-button {
+			background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+			border: 2px solid #ffffff !important;
+			border-radius: 3px;
+			color: #ffffff !important;
+			display: inline-block;
+			font-size: 13px;
+			font-weight: 700;
+			line-height: 24px;
+			padding: 11px 25px;
+			position: relative;
+			text-transform: uppercase
+		}
+
+		a.slider-button:hover {
+			background: #ffffff none repeat scroll 0 0;
+			border-color: #0047ba;
+			color: #0047ba !important
+		}
+
+		h3.slider-normal-font {
+			color: #ffffff;
+			font-size: 72px;
+			font-weight: 400;
+			line-height: 1.2em;
+			text-transform: uppercase
+		}
+
+		h3.slider-min-height {
+			color: #ffffff;
+			font-size: 72px;
+			font-weight: 800;
+			line-height: 1.2em;
+			text-transform: uppercase
+		}
+
+		h4.slider-main-title {
+			color: #ffffff;
+			font-size: 24px;
+			font-weight: 600;
+			line-height: 33px;
+			padding: 5px 16px;
+			position: relative;
+			text-transform: uppercase
+		}
+
+		@media only screen and (max-width:670px) {
+
+			.tp-leftarrow,
+			.tp-rightarrow,
+			.slider-dropcop {
+				display: none !important
+			}
+
+			.slider-button,
+			h4.slider-main-title,
+			/* div.text {
+				display: none !important
+			} */
+
+			h3.blog-color {
+				font-size: 15px !important;
+				padding: 10px 8px !important
+			}
+
+			h1.slider-heading-one {
+				font-size: 20px !important;
+				font-weight: 900 !important
+			}
+
+			span.normal-font {
+				font-size: 15px !important
+			}
+		}
+
+		.member-image {
+			border-radius: 50%;
+		}
+
+		.container .team {
+			margin-top: 34px;
+			width: auto;
+			display: flex;
+			justify-content: center;
+			text-align: center;
+			flex-wrap: wrap;
+		}
+
+
+
+		.container .team .member {
+			width: 325px;
+			margin: 10px;
+			background: #fff;
+			border-radius: 6px;
+			box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
+			padding: 25px;
+			border: 1px solid #021fa1;
+		}
+
+		.container .team .member .member-image {
+			width: 80px;
+			height: 80px;
+		}
+
+		.container .team .member h3 {
+			color: #444;
+			margin-top: 10px;
+		}
+
+		.container .team .member span {
+			font-size: 12px;
+			color: #999;
+		}
+
+		.container .team .member p {
+			margin: 15px 0;
+			height:140px;
+			font-weight: 400;
+			color: #999;
+			font-size: 15px;
+			text-align: justify;
+		}
+
+		.container .team .member .btn a {
+			background: #0047ba;
+			display: block;
+			float: right;
+			width: 125px;
+			margin: 0 10px;
+			padding: 10px;
+			border-radius: 6px;
+			color: white;
+			text-transform: capitalize;
+			transition: all 0.3s ease;
+		}
+
+		.container .team .member .btn a:hover {
+			background: #ffffff;
+			color: #fff;
+		}
+
+			#tpath_wrapper .header-section {
+			background-attachment: fixed;
+			background-position: top center;
+		}
+
+		.navbar-brand .site-logo-text {
+			font-family: Raleway;
+			font-size: 23px;
+			font-style: normal;
+			font-weight: 700;
+			color: #292929;
+		}
+
+		.fullwidth .container,
+		.tpath-owl-carousel .owl-controls {
+			max-width: 1200px;
+		}
+
+		.fullwidth .container-big {
+			max-width: 1260px;
+		}
+
+		.boxed #tpath_wrapper {
+			max-width: 1200px;
+		}
+
+		.boxed .container,
+		.tpath-owl-carousel .owl-controls,
+		.boxed .is-sticky.header-main-section {
+			max-width: 1200px;
+		}
+
+		.boxed .container-big {
+			max-width: 1320px;
+		}
+
+		.footer-section:before {
+			background-color: #0047ba;
+			opacity: 0.97;
+		}
+
+		body {
+			font-family: Roboto;
+			font-size: 15px;
+			font-style: normal;
+			font-weight: 400;
+			color: #8d8d8d;
+		}
+
+		#main-wrapper,
+		#main-wrapper #primary,
+		#main-wrapper #sidebar,
+		#main-wrapper #secondary-sidebar {
+			min-height: 300px;
+		}
+
+		.dropdown-menu {
+			min-width: 220px;
+		}
+
+		.header-top-section .tpath-top-nav .navbar-nav>li>a {
+			font-family: Montserrat;
+			font-size: 10px;
+			font-style: normal;
+			font-weight: 300;
+
+		}
+
+		.nav.navbar-nav.tpath-main-nav li a,
+		.nav.navbar-nav.tpath-main-nav li span.menu-toggler,
+		.menu-icon-box {
+			font-family: Roboto;
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 700;
+
+		}
+
+		.nav.navbar-nav.tpath-main-nav .dropdown-menu a,
+		.nav.navbar-nav.tpath-main-nav li .tpath-megamenu-container .tpath-megamenu a {
+			font-family: Montserrat;
+			font-size: 13px;
+			font-style: normal;
+			font-weight: 400;
+
+		}
+
+		.btn,
+		.form-submit .submit,
+		.vc_general.vc_btn3,
+		.tpath-simple-btn,
+		.entry-footer .read-more .btn-more,
+		.pager li>a,
+		.pager li>span {
+			font-family: Montserrat;
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 400;
+
+		}
+
+		h1,
+		.tp-caption.slider-title {
+			font-family: Playfair Display;
+			font-size: 43px;
+			line-height: 43px;
+			font-style: normal;
+			font-weight: 400;
+			color: #1c1c1c;
+		}
+
+		h2,
+		h2 a,
+		.tp-caption.slider-subtitle {
+			font-family: Raleway;
+			font-size: 38px;
+			line-height: 38px;
+			font-style: normal;
+			font-weight: 400;
+			color: #1c1c1c;
+		}
+
+		h3,
+		.vc_cta3-content-header h4 {
+			font-family: Raleway;
+			font-size: 30px;
+			line-height: 30px;
+			font-style: normal;
+			font-weight: 400;
+			color: #1c1c1c;
+		}
+
+		h4,
+		.comment-reply-title {
+			font-family: Raleway;
+			font-size: 22px;
+			line-height: 22px;
+			font-style: normal;
+			font-weight: 700;
+			color: #1c1c1c;
+		}
+
+		h5 {
+			font-family: Montserrat;
+			font-size: 19px;
+			line-height: 19px;
+			font-style: normal;
+			font-weight: 400;
+			color: #1c1c1c;
+		}
+
+		h6,
+		.tp-caption.slider-thumb-title,
+		.vc_progress_bar .vc_label,
+		.vc_label {
+			font-family: Montserrat;
+			font-size: 17px;
+			line-height: 17px;
+			font-style: normal;
+			font-weight: 400;
+			color: #1c1c1c;
+		}
+
+		.text-italic {
+			font-family: EB Garamond;
+			font-size: 20px;
+			line-height: 20px;
+			font-style: italic;
+			font-weight: 400;
+			color: #888888;
+		}
+
+		.parallax-title,
+		.tpath-section-title .section-title {
+			font-family: Montserrat;
+			font-style: normal;
+			font-weight: 400;
+
+		}
+
+		.page-title-header h1,
+		.page-title-header h1.entry-title {
+			font-family: Raleway;
+			font-size: 48px;
+			font-style: normal;
+			font-weight: 800;
+			color: #ffffff;
+		}
+
+		.widget h3.widget-title {
+			font-family: Raleway;
+			font-size: 20px;
+			font-style: normal;
+			font-weight: 800;
+
+		}
+
+		.sidebar .widget p,
+		.sidebar .widget ul li,
+		.sidebar .widget div,
+		.sidebar .widget ul li>a {
+			font-family: Roboto;
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 400;
+			color: #c9c9c9;
+		}
+
+		.footer-section .widget h3.widget-title {
+			font-family: Raleway;
+			font-size: 18px;
+			font-style: normal;
+			font-weight: 700;
+			color: #ffffff;
+		}
+
+		.footer-widgets div,
+		.footer-widgets p,
+		.footer-widgets .widget_categories ul li a,
+		.footer-copyright-section p {
+			font-family: Roboto;
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 400;
+
+		}
+
+			.vc_custom_1476332507207 {
+			padding-top: 70px !important;
+			padding-bottom: 70px !important;
+			background-image: url(../wp-content/uploads/2016/10/fluid-image-46258.jpg?id=21) !important;
+			background-position: center;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1476332081572 {
+			background: #69af24 url(http://wp1.themexlab.com/old/greenture/wp-content/uploads/2016/10/map-pattern.png?id=145) !important;
+		}
+
+		.vc_custom_1467467595077 {
+			margin-top: 60px !important;
+			margin-bottom: 60px !important;
+		}
+
+		.vc_custom_1468212830725 {
+			padding-top: 6px !important;
+		}
+		.vc_custom_1475826002082 {
+			margin-bottom: 54px !important;
+			padding-top: 100px !important;
+			padding-bottom: 120px !important;
+			background-image: url(../wp-content/uploads/2016/10/blog-image-109c8a.jpg?id=23) !important;
+		}
+
+		.vc_custom_1467868721475 {
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1475825755701 {
+			padding-top: 80px !important;
+			padding-right: 80px !important;
+			padding-bottom: 70px !important;
+			padding-left: 70px !important;
+			background-image: url(http://wp1.themexlab.com/old/greenture/wp-content/uploads/2016/10/fluid-image-3.jpg?id=20) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1475825775932 {
+			padding-top: 75px !important;
+			padding-right: 80px !important;
+			padding-bottom: 80px !important;
+			padding-left: 40px !important;
+			background-image: url(http://wp1.themexlab.com/old/greenture/wp-content/uploads/2016/10/fluid-image-4.jpg?id=21) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1467870265477 {
+			margin-bottom: 30px !important;
+		}
+		.wpb_animate_when_almost_visible {
+				opacity: 1;
+			}

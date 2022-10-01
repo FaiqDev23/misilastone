@@ -1,0 +1,845 @@
+a,
+a.btn-link {
+    color: #0047ba;
+}
+.text-color,
+.text-italic.text-color {
+    color: #0047ba;
+}
+#back-to-top {
+    background-color: #0047ba;
+}
+.page-breadcrumbs ul li a:hover,
+.page-breadcrumbs ul li a:active,
+.page-breadcrumbs ul li a:focus {
+    color: #0047ba;
+}
+.event-single-page .column-info,
+.event-single-page strong,
+.page-title-container i,
+.btn-theme-color:hover {
+    color: #0047ba !important;
+}
+/* ------------- Button Style  ------------- */
+.search-form .input-group-btn .btn,
+.tpath-header-main-bar-two {
+	background-color: #0047ba;
+}
+.btn.btn-default,
+.btn.btn_bgcolor,
+.form-submit .submit,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg,
+.events-filters-section .form-group .events-filters-button,
+.vc_general.vc_btn3.vc_btn3-style-default {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.events-filters-section .form-group .events-filters-button:hover {
+    background: #fff;
+    border-color: #0047ba;
+    color: #0047ba;
+}
+.btn.btn_trans_themecolor {
+    color: #0047ba;
+    border-color: #0047ba;
+}
+.btn.btn_bgcolor:hover,
+.form-submit .submit:hover,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:hover,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:active,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:focus {
+    color: #0047ba;
+}
+.btn.btn_trans_white:hover,
+.btn.btn_trans_white:active,
+.btn.btn_trans_white:focus,
+.btn.btn-transparent-white:hover,
+.btn.btn-transparent-white:active,
+.btn.btn-transparent-white:focus {
+    color: #0047ba;
+}
+.btn.btn-default:hover, 
+.btn.btn_bgcolor:hover, 
+.form-submit .submit:hover, 
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:hover, 
+.vc_general.vc_btn3.vc_btn3-style-default:hover, 
+.btn.btn_bgcolor:hover:hover, 
+.form-submit .submit:hover, 
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:hover, 
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:active, 
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:focus,
+.btn-theme-color:hover,
+.btn.btn-style-outline {
+	border-color: #0047ba;
+	color: #0047ba;
+}
+.btn-theme-color,
+.btn.btn-style-color,
+.footer-subscribe-section  {
+	background-color: #0047ba;
+}
+.btn.btn-style-color.btn-skin-dark:hover {
+	color: #0047ba;
+}
+.btn.btn-style-color.btn-white {
+	color: #0047ba;
+}
+.services-entry-btn,
+.btn.btn-style-color.btn-white:hover {
+	border-color: #0047ba;
+	background-color: #0047ba;
+}
+.services-entry-btn:hover,
+.btn.btn-style-color:hover, 
+.btn.btn-style-color:active, 
+.btn.btn-style-color:focus, 
+.btn.btn-style-color1:hover, 
+.btn.btn-style-color1:active, 
+.btn.btn-style-color1:focus{
+	color: #0047ba;
+}
+.btn-theme-color,
+.primary-dark-color .btn.btn-style-color:hover, 
+.primary-dark-color .btn.btn-style-color:active, 
+.primary-dark-color .btn.btn-style-color:focus {
+	background-color: #0047ba;
+	border-color: #0047ba;
+}
+.btn.btn-style-outline:hover, .btn.btn-style-outline:active, .btn.btn-style-outline:focus {
+	background-color: #0047ba;
+	border-color: #0047ba;
+}
+.btn.btn-style-outline.btn-white:hover, .btn.btn-style-outline.btn-white:active, .btn.btn-style-outline.btn-white:focus {	
+	color: #0047ba;
+}
+.btn.btn-simple-text {
+	color: #0047ba;
+}
+.services-entry-btn:hover,
+.events-filters-section .form-group input:focus,
+.search-form .input-group input.form-control:focus {
+    border: 1px solid #0047ba;
+}
+.search-form .input-group input.form-control:focus  + span > button,
+.widget_search .btn-search:hover {
+	background-color: #0047ba;
+}
+/*------------- Header -------------*/
+.info-box {
+	background-color: #262626;
+}
+.info-box:before {
+    border-top: 40px solid #262626;
+}
+.header-top-section, .header-top-section a {
+	color: #ffffff;
+}
+.tpath-social-icons li a i:hover {
+    color: #0047ba;
+}
+.tpath-social-icons.soc-icon-transparent li:hover a i {
+	color: #0047ba;
+}
+.header-main-section {
+	border-bottom-color: #0047ba;
+}
+.tpath-social-icons.soc-icon-transparent i {
+	color: #FFF;
+}
+.header-section .header-main-section .nav.navbar-nav.tpath-main-nav a:hover, 
+.header-section .header-main-section .nav.navbar-nav.tpath-main-nav a:focus, 
+.header-section .header-main-section .nav.navbar-nav.tpath-main-nav a:active,
+.header-section .header-main-section .nav.navbar-nav.tpath-main-nav > li:hover > a,
+.header-section .header-main-section .nav.navbar-nav.tpath-main-nav li.active > a,
+.header-section .nav.navbar-nav.tpath-main-nav li .tpath-megamenu-container .tpath-megamenu li.active > a,
+.header-section .nav.navbar-nav.tpath-main-nav li .tpath-megamenu-container .tpath-megamenu a:hover, 
+.header-section .nav.navbar-nav.tpath-main-nav li .tpath-megamenu-container .tpath-megamenu a:active, 
+.header-section .nav.navbar-nav.tpath-main-nav li .tpath-megamenu-container .tpath-megamenu a:focus,
+.header-main-section .nav.navbar-nav ul.dropdown-menu li.current-menu-parent > a,
+.header-main-section .nav.navbar-nav li.current-menu-parent > a,
+.header-main-section .nav.navbar-nav.tpath-main-nav li.current-menu-ancestor > a {
+	color: #0047ba;
+}
+.single-post .tpath-social-share-icons li a:hover,
+.tpath-main-nav.nav.navbar-nav > li > a:before {
+	background: #0047ba;
+}
+.menu-btm-bar:before {
+    background: #0047ba;
+}
+.navbar-toggle,
+.flex-direction-nav a {
+    background-color: #0047ba;
+}
+.tpath-section-title .section-title:before {
+    background-color: #0047ba;
+}
+.header-top-section a:hover,
+.header-top-section a:focus,
+.header-top-section a:active {
+    color: #0047ba;
+}
+.tpath-social-icons li a i:hover,
+.tpath-social-icons li a i:active,
+.tpath-social-icons li a i:focus {
+    /*background-color: #0047ba;*/
+	color: #0047ba !important;
+}
+.call-info:hover {
+	color: #0047ba;
+}
+.btn-donate {
+    background: #0047ba none repeat scroll 0 0 !important;
+    color: #ffffff;
+}
+.btn-donate:hover {
+    background: #262626 none repeat scroll 0 0 !important;
+	color: #FFF !important;
+}
+.call-info span,
+.email-info span {
+	color: #0047ba;
+}
+.tpath-main-nav.nav.navbar-nav > li.dropdown .dropdown-menu li > a {
+	border-bottom-color: #0047ba;
+}
+.tpath-main-nav .menu-item .dropdown-menu .menu-item .sub-menu.sub-nav,
+.navbar-nav.tpath-main-nav .dropdown-menu {
+	border-top-color: #0047ba;
+	border-left-color: #0047ba;
+	border-right-color: #0047ba;
+	border-bottom-color: #0047ba;
+}
+.header-section .nav.navbar-nav .dropdown-menu li {
+    border-bottom-color: #0047ba;
+}
+.dropdown-menu .tpath-megamenu-container .tpath-megamenu a:hover {
+	color: #ffffff;
+	background-color: #0047ba;
+}
+.tpath-main-nav.nav.navbar-nav > li.dropdown .dropdown-menu li:hover > a {
+	background-color: #0047ba;
+	color: #fff;
+}
+/* ------------- SERVICES BOX ------------- */
+.service-content-wrapper .service-name > a:hover, .service-content-wrapper .service-name > a:focus,
+.tpath-service-grid-wrapper.display-icon-style .service-name > a:hover, .tpath-service-grid-wrapper.display-icon-style .service-name > a:focus {
+    color: #0047ba;
+}
+.tpath-service-grid-wrapper.display-icon-style .service-item:hover .service-icon-wrapper i {
+	color: #0047ba;
+}
+.service-content-wrapper .service-sub-title {
+	color: #0047ba;
+}
+/* ------------- Feature Box ------------- */
+.tpath-feature-box .tpath-feature-top .tpath-feature-image::after {
+    background: #0047ba none repeat scroll 0 0;
+}
+.tpath-feature-box .tpath-feature-box-title > .feature-box-sub-title {
+	color: #0047ba;
+}
+.btn.btn-simple-text.btn-skin-default:hover, .btn.btn-simple-text.btn-skin-default:active, .btn.btn-simple-text.btn-skin-default:focus {
+	color: #0047ba;
+}
+.tpath-listitem li:hover::before {
+    color: #0047ba;
+}
+.tpath-listitem.custom-icon li:hover:before {
+    color: #0047ba;
+    border-color: #0047ba;
+}
+.tpath-feature-box-btn .btn.btn-no_border:hover {
+    color: #0047ba;
+}
+.tpath-section-title.title-left_border .section-title {
+    border-color: #0047ba;
+}
+.tpath-feature-box:hover .tpath-feature-icon i,
+.tpath-feature-box:hover .tpath-feature-icon i:before {
+    color: #0047ba;
+}
+.tpath-feature-box.feature-box-style.style-iconstyle:hover {
+    background: #0047ba;
+}
+/* ------------- Testimonial ------------- */
+.testimonial-slider-wrapper.type-author_top .testimonial-info {
+    border-color: #0047ba;
+}
+/* ------------- Section Title ------------- */
+.bg-style.primary-color .tpath-section-title.title-bottom_border .section-title:before,
+.bg-style.primary-color .tpath-section-title.title-bottom_border .section-title:after,
+.bg-style.primary-color .tpath-section-title.title-bottom_border .section-sub-title:before,
+.bg-style.primary-color .tpath-section-title.title-bottom_border .section-sub-title:after {
+    background-color: #FCA241;
+}
+.bg-style.primary-color .tpath-section-title .section-sub-title,
+.bg-style.primary-color .tpath-section-title .section-sub-title p {
+    color: #FFD09E;
+}
+.bg-style.primary-color .tpath-feature-box .tpath-feature-icon i,
+.bg-style.primary-color .tpath-feature-box-content,
+.bg-style.primary-color .tpath-feature-box-content p,
+.event-single-page .text ul li:after {
+    color: #FFD09E;
+}
+.bg-style.primary-color .vc_column_container.border-right_only {
+    border-color: #FFD09E;
+}
+.bg-style.primary-dark-color .vc_column_container.border-right_only {
+    border-color: #0047ba;
+}
+/* ------------- Team Section  ------------- */
+.team-member-single-page .fact-counter article .inner {
+    background: #0047ba;
+}
+.tpath-icons-box i {
+    color: #0047ba;
+}
+/* ------------- Counter Section  ------------- */
+.tpath-counter-section .separator .counter-line {
+    background: #0047ba;
+}
+/* ------------- Portfolio ------------- */
+.portfolio-item .portfolio-overlay {
+	background: #3876da none repeat scroll 0 0;
+}
+.portfolio-content .portfolio-title > a:hover,
+.portfolio-content .portfolio-title > a:active,
+.portfolio-content .portfolio-title > a:focus {
+    color: #0047ba;
+}
+.portfolio-gallery-wrapper .portfolio-tabs.style2-sep > li a.active {
+    color: #0047ba;
+}
+.portfolio-gallery-wrapper .portfolio-tabs > li a:hover {
+	background-color: #0047ba;
+	border-color: #0047ba;
+}
+.portfolio-gallery-wrapper .portfolio-tabs > li a.active,
+.team-gallery-wrapper .team-tabs > li a.active {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.portfolio-top .portfolio-top-icon {
+    color: #0047ba;
+}
+.portfolio-content .portfolio-title:after {
+    background: #0047ba;
+}
+.portfolio-gallery-wrapper .portfolio-tabs.style1-box > li a.active {
+    background: #0047ba;
+}
+.post-navigation .pager li a:hover, .post-navigation .pager li a:active, .post-navigation .pager li a:focus {
+    background: #0047ba;
+	border-color: #0047ba;
+}
+.post a:hover, .post a.btn-link:hover {
+    color: #0047ba;
+}
+/* Event Gallery and List view */
+.ecs-event .ecs-event-inner .event-title a:hover {
+	color: #0047ba !important;
+}
+.ecs-event .ecs-event-inner .duration.time,
+.ecs-event .ecs-event-inner .duration.venue {
+	color: #0047ba;
+}
+/* ------------- Button ------------- */
+.btn:hover,
+.btn:active,
+.btn:focus {
+    border-color: #0047ba;
+    background: #0047ba;
+}
+.btn.simple_text:hover,
+.btn.simple_text:active,
+.btn.simple_text:focus {
+    color: #0047ba;
+}
+.btn.btn-active {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.btn.btn-active:hover,
+.btn.btn-active:active,
+.btn.btn-active:focus,
+.vc-btn-active .vc_general.vc_btn3.vc_btn3-style-custom:hover,
+.vc-btn-active .vc_general.vc_btn3.vc_btn3-style-custom:active,
+.vc-btn-active .vc_general.vc_btn3.vc_btn3-style-custom:focus {
+    color: #0047ba;
+}
+.btn.btn-style-2 {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.btn.btn-style-2:hover,
+.btn.btn-style-2:active,
+.btn.btn-style-2:focus {
+    border-color: #0047ba;
+    background: #0047ba;
+}
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="submit"]:focus,
+.wpcf7 input[type="submit"]:hover,
+.wpcf7 input[type="submit"]:active,
+.wpcf7 input[type="submit"]:focus {
+    border-color: #0047ba;
+}
+.tpath-input-submit .btn.tpath-submit {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.tpath-input-submit .btn.tpath-submit:hover,
+.tpath-input-submit .btn.tpath-submit:active,
+.tpath-input-submit .btn.tpath-submit:focus {
+    color: #0047ba;
+}
+.tpath-contact-form-container .tpath-input-submit .btn.tpath-submit:hover,
+.tpath-contact-form-container .tpath-input-submit .btn.tpath-submit:active {
+	border-color: #0047ba;
+}
+.tpath-contact-form-container .tpath-input-submit .btn.tpath-submit {
+	border-color: #0047ba;
+}
+.tpath-contact-form-container .tpath-input-text input:focus,
+.tpath-contact-form-container .tpath-input-email input:focus,
+.tpath-contact-form-container .tpath-textarea-message textarea:focus {
+	border-color: #0047ba;
+}
+/* ------------- Revolution Slider ------------- */
+.rev_slider .tp-caption.slider-subtitle.title-color {
+    color: rgba(243, 139, 28, 0.8);
+}
+.tp-caption.slider-btn .btn {
+    background-color: #0047ba;
+    border-color: #0047ba;
+}
+.tp-caption.slider-btn .btn:hover,
+.tp-caption.slider-btn .btn:active,
+.tp-caption.slider-btn .btn:focus {
+    color: #0047ba;
+}
+.tp-caption.slider-btn .btn.btn-transparent-white:hover,
+.tp-caption.slider-btn .btn.btn-transparent-white:active,
+.tp-caption.slider-btn .btn.btn-transparent-white:focus {
+    color: #0047ba;
+}
+.tp-caption.slider-btn .btn.btn-transparent-color {
+    border-color: #0047ba;
+    color: #0047ba;
+}
+.tp-caption.slider-btn .btn.btn-transparent-color:hover,
+.tp-caption.slider-btn .btn.btn-transparent-color:active,
+.tp-caption.slider-btn .btn.btn-transparent-color:focus {
+    background-color: #0047ba;
+}
+.tp-bullets.simplebullets.preview1 .bullet:hover,
+.tp-bullets.simplebullets.preview1 .bullet.selected {
+    background: rgba(243, 139, 28, 0.8) !important;
+}
+.rev_slider .tp-caption.slider-thumb-title {
+    background: rgba(139, 43, 17, 0.7);
+}
+/* ------------- Title ------------- */
+.tpath-section-title::before {
+    background-color: #0047ba;
+}
+.page-title-header .page-slogan {
+	color: #0047ba;
+}
+.page-breadcrumbs span > a:hover, .page-breadcrumbs span > a:active, .page-breadcrumbs span > a:focus, .page-breadcrumbs a:hover > span, .page-breadcrumbs a:active > span, .page-breadcrumbs a:focus > span {
+	color: #0047ba;
+}
+/* ------------- About Me Box ------------- */
+.tpath-quote-box {
+    background: #0047ba;
+}
+.tpath-quote-box .author-title {
+    border-color: #0047ba;
+}
+.tpath-quote-box .author-title .author-designation {
+    color: #0047ba;
+}
+/* ------------- Team ------------- */
+.team-style3 .team-item .team-member-designation {
+    color: #0047ba;
+}
+.team-style3 .team-item .team-content-wrapper .team-member-name a:hover,
+.team-style3 .team-item .team-content-wrapper .team-member-name a:active,
+.team-style3 .team-item .team-content-wrapper .team-member-name a:focus {
+    color: #0047ba;
+}
+.tpath-team-slider-wrapper .tpath-owl-carousel .owl-controls .owl-nav:hover .fa {
+    color: #0047ba;
+}
+.team-member-single-page .social-links a:hover,
+.team-social-media li:hover {
+	background-color: #3876da;
+	border-color: #3876da;
+}
+.team-item .team-member_phone span,
+.team-item .team-member_email span {
+	color: #0047ba;
+}
+.team-item .team-member_email a:hover, .team-item .team-member_email a:active, .team-item .team-member_email a:focus {
+	color: #0047ba;
+}
+/* ------------- Testimonial ------------- */
+.testimonial-slider-wrapper.type-default .client-author-info:before {
+    border-color: #0047ba;
+}
+.testimonial-info .author-designation {
+    color: #0047ba;
+}
+/* ------------- Latest Posts ------------- */
+/*.latest-posts-layout .read-more a:before {
+    background: #0047ba;
+}*/
+.latest-posts-layout .posts-content-container .entry-meta li.posted-date {
+    color: #0047ba;
+}
+/* ------------- Clients ------------- */
+.clients-wrapper .owl-carousel.owl-theme .owl-controls .owl-nav div:hover i {
+    color: #0047ba;
+}
+/* ------------- Tabs ------------- */
+.wpb_wrapper .wpb_tabs .wpb_tabs_nav li:hover > a,
+.wpb_wrapper .wpb_tabs .wpb_tabs_nav li.active > a:hover,
+.wpb_wrapper .wpb_tabs .wpb_tabs_nav li.active > a:focus,
+.wpb_wrapper .wpb_tabs .wpb_tabs_nav li.active a,
+.wpb_wrapper .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a {
+    background: #869791 none repeat scroll 0 0;
+}
+/* ------------- Owl Carousel ------------- */
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-nav div:hover {
+    border-color: #3876da;
+}
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-nav div:hover i {
+    color: #0047ba;
+}
+.owl-carousel.owl-theme .owl-controls .owl-dot.active span {
+	background: #869791 none repeat scroll 0 0;
+}
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-prev {
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+}
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-next {
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-prev,
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-next {
+	background-color: #0047ba;
+	border: 1px solid #0047ba;
+}
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-prev:hover,
+.testimonial-carousel-slider.owl-carousel.owl-theme .owl-controls .owl-next:hover {
+	background-color: #3876da;
+}
+/* ------------- Footer ------------- */
+.footer-widgets ul li:hover a,
+.footer-section a:hover {
+    color: #0047ba;
+}
+.tpath-social-icons.widget-soc-icon li:hover a {
+    border-color: #0047ba;
+	background: #0047ba;
+    color: #FFF;
+}
+.tpath-social-icons.widget-soc-icon li:hover a i {
+    color: #fff;
+}
+.tpath-social-icons.soc-icon-flat li a:hover i {
+    color: #0047ba;
+}
+.footer-left-col-widgets .app-btn .wpcf7-submit {
+    background: #0047ba;
+	border-color: #0047ba;
+}
+.copyright-info a {
+    color: #0047ba;
+}
+.copyright-info a:hover {
+    color: #23527c;
+}
+/* Widgets*/
+.sidebar .widget a:hover,
+.sidebar .widget li:hover a,
+.sidebar .widget li.posts-item h5 a:hover,
+.sidebar .widget li.posts-item h5 a:active,
+.sidebar .widget li.posts-item h5 a:focus {
+    color: #0047ba;
+}
+.sidebar .widget li:hover:before, .footer-section .widget li:hover::before {
+    color: #0047ba;
+}
+.sidebar .contact_info-inner .fa,
+.sidebar .contact_info-inner .simple-icon {
+    color: #0047ba;
+}
+.widget.widget_tag_cloud .tagcloud a:hover,
+.widget.widget_tag_cloud .tagcloud a:active,
+.widget.widget_tag_cloud .tagcloud a:focus {
+    background: #0047ba;
+    border-color: #0047ba;
+}
+.tpath-contact_info .contact_info-inner > p span.icon {
+	color: #0047ba;
+}
+/* ------------- Blog ------------- */
+.entry-footer .read-more .btn-more:hover {
+	background: #25292f !important;
+	border: 2px solid #25292f !important;
+}
+.post .entry-title a:hover,
+.post .entry-title a:active,
+.post .entry-title a:focus {
+    color: #0047ba;
+}
+.entry-footer .read-more .btn-more:hover {
+    color: #0047ba;
+}
+blockquote::before {
+    background: #0047ba;
+}
+.large-posts .entry-header h3.entry-title:hover a {
+    color: #0047ba;
+}
+.date-image-inner {
+	background-color: #0047ba;
+}
+.has-post-thumbnail .posts-content-container .entry-thumbnail .owl-controls .owl-nav .fa {
+    color: #0047ba;
+}
+.entry-meta .comments-link i {
+	color: #0047ba;
+}
+.sidebar .widget-title:after {
+	background-color: #0047ba;
+}
+.sidebar .widget p, .sidebar .widget ul li, .sidebar .widget div, .sidebar .widget ul li > a:hover {
+	color: #0047ba !important;
+}
+/* ------------- Single Post  ------------- */
+input[type="submit"],
+.wpcf7 input[type="submit"],
+.tpath-booking-form-wrapper .rtb-booking-form button {
+    background: none repeat scroll 0 0 #0047ba;
+    border-color: #0047ba;
+}
+.comment-post-meta span a:hover {
+    background: #0047ba;
+}
+.author-info li a:hover {
+    color: #0047ba;
+}
+/* ------------- Full Width BG ------------- */
+.bg-style.primary-color {
+    background: #0047ba;
+}
+.bg-style.primary-dark-color {
+    background: #E27500;
+}
+.bg-style.overlay-wrapper.bg-overlay.theme-overlay-color:before {
+    background-color:#3876da;
+}
+/* ------------- Call to Action ------------- */
+.bg-style.primary-color .vc_cta3-content p {
+    color: #FFD09E;
+}
+/* ------------- Contact Page ------------- */
+.tpath-contact-info i {
+    color: #0047ba;
+}
+/* ------------- VC Color Schemes ------------- */
+.vc_progress_bar .vc_single_bar .vc_bar,
+.team-progress-bar .progress-bar {
+    background-color: #0047ba;
+}
+.team-member-info ul li:before {
+    color: #0047ba;
+}
+#main .vc_images_carousel .vc_carousel-control:hover {
+    background: #0047ba;
+}
+#main .vc_images_carousel .vc_carousel-indicators li {
+    background-color: #0047ba;
+    border-color: #0047ba;
+}
+.vc_images_carousel .vc_carousel-indicators .vc_active {
+    border-color: #0047ba;
+}
+/* ------------- VC TOGGLES ------------- */
+.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading:hover a {
+    color: #0047ba;
+}
+.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading:hover a .vc_tta-controls-icon:before,
+.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading:hover a .vc_tta-controls-icon:after {
+    border-color: #0047ba;
+}
+/* ------------- VC TOURS ------------- */
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab > a i,
+.vc_tta.vc_general .vc_tta-icon {
+    color: #0047ba;
+}
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-left .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:before {
+    border-right-color: #0047ba;
+}
+.vc_ttsa-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab > a:hover,
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab > a:focus,
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:hover,
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:focus,
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab > a:hover,
+.vc_tta-style-tpath_tour_design .vc_tta-tabs-list li.vc_tta-tab > a:focus,
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-left .vc_tta-tabs-list li.vc_tta-tab.vc_active > a {
+    background: #0047ba;
+}
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a,
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:focus,
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:hover,
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:before {
+    border-left-color: #0047ba;
+}
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a:before {
+    border-left-color: #0047ba;
+}
+.vc_tta-container .vc_tta-style-tpath_tour_design.vc_tta-tabs-position-right .vc_tta-tabs-list li.vc_tta-tab.vc_active > a {
+    border-left-color: #0047ba;
+}
+.vc_general.vc_cta3.vc_cta3-style-default .vc_icon_element-icon {
+    color: #0047ba;
+}
+/* --------- VC TESTIMONIAL SLIDER -------- */
+.tpath-testimonial .client-author-place.text-center {
+	color: #0047ba;
+}
+.tpath-testimonial .testimonial-item-inner-wrapper:hover {
+	border-color: #0047ba;
+}
+.tpath-testimonial .testimonial-item-inner-wrapper:hover .author-image img {
+	border-color: #0047ba;
+}
+/* VC Toggle */
+.vc_toggle.vc_toggle_active .vc_toggle_title>h4 {
+   color: #0047ba;
+}
+.vc_toggle .vc_toggle_title:before {
+	color: #0047ba;
+	border-color: #0047ba;
+}
+.vc_toggle.vc_toggle_active .vc_toggle_title:before {
+    color: #0047ba;
+}
+.service-item:hover h3.service-name i, .service-item:hover h3.service-name a {
+   color: #0047ba;
+}
+.vc_general.vc_cta3 .vc_cta3-actions:before {
+    background: #0047ba;
+}
+/* ================================================================
+ * VC BUTTON SECTION
+ * ================================================================ */
+.vc-btn-main-section .button-type-transparent:hover {
+	color: #0047ba;
+}
+.vc-btn-main-section .button-type-two {
+	border-color: #0047ba !important;
+	background-color: #0047ba;
+}
+.vc-btn-main-section .button-type-two:hover {
+	color: #0047ba;
+}
+.vc-btn-main-section .button-type-medium {
+	background: #0047ba;
+	border-color: #0047ba !important;
+}
+.vc-btn-main-section .button-type-medium:hover{
+	color: #0047ba;
+}
+.vc-btn-main-section .button-type-dark {
+	color: #25292f;
+	border-color: #e0e0e0 !important;
+}
+.vc-btn-main-section .button-type-dark:hover {
+	background: #25292f;
+    border-color: #25292f !important;
+}
+/* ================================================================
+ * VC MAIN SECTION
+ * ================================================================ */
+.section-heading-superater,
+.section-small-superater {
+    color: #0047ba;
+}
+.heading-underline:after {
+	background-color: #0047ba;
+}
+.dark-font .heading-underline:after {
+	background-color: #fff !important;
+}
+.section-heading .section-title span {
+	color: #0047ba;
+}
+/* ================================================================
+ * VC ICON BLOG
+ * ================================================================ */
+.vc-icon-block-main .lower-box {
+	border-right: 1px dashed #0047ba;
+}
+.features-icon-column .icon-box:before {
+	background: rgba(0, 0, 0, 0) linear-gradient(right top , #3876da, #0047ba) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) -o-linear-gradient(right top , #3876da, #0047ba) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) -ms-linear-gradient(right top , #3876da, #0047ba) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -moz-linear-gradient(right top , #3876da, #0047ba) repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) -webkit-linear-gradient(right top , #3876da, #0047ba) repeat scroll 0 0;
+}
+.icon-transperant-main:hover .icon-box::before {
+    border-color: #0047ba;
+}
+/* SERVICE BLOCK */
+.ecs-event:hover .image-inner:before,
+.ecs-event:hover .image-inner:after,
+.service-item-img:after,
+.service-item-img:before {
+    background: #0047ba;
+}
+/* ================================================================
+ * VC VIDEO BLOG
+ * ================================================================ */
+.tpath-video-shortcode .icon-outer .fa {
+    color: #0047ba;
+}
+/* ================================================================
+ * VC LIST BLOG
+ * ================================================================ */
+.feature-icon-wrapper i.list-icon, .feature-icon-wrapper .list-icon {
+    color: #0047ba;
+}
+/* ================================================================
+ * ERROR 404 PAGE
+ * ================================================================ */
+.title-404 > span {
+	color: #0047ba;
+}
+.btn-donate-two-mobile:hover,
+.footer-subscribe-section .button-type-transparent:hover {
+	color: #0047ba;
+}
+.donat-button-mobile-nav {
+	background-color: #0047ba;
+}
+/* Coment */
+.related-post-item h5 a, 
+.comments-section h5, 
+.comments-title h5, 
+.comments-title:after,
+.comment-respond .comment-reply-title:after {
+	background-color: #0047ba;
+}
+#comment:focus,
+.comment-input input[type='text']:focus {
+	border-color: #0047ba;
+}
